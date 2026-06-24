@@ -158,7 +158,7 @@ car elle a son propre design (centrée, sans sidebar) distinct du back-office.
 
         <!-- Affichage conditionnel du message d'erreur :
              Le message n'apparaît que si $error contient une chaîne non vide.
-             htmlspecialchars() est utilisé implicitement via <?= pour échapper
+             htmlspecialchars() est utilisé pour échapper
              les caractères spéciaux et prévenir les attaques XSS. -->
         <?php if($error): ?><div class="error"><?= $error ?></div><?php endif; ?>
 
