@@ -20,7 +20,7 @@ require_once __DIR__ . '/includes/header.php';
 
 <div class="d-flex justify-content-between align-items-center mb-4">
     <h2>Tableau de bord</h2>
-    <a href="../" target="_blank" class="btn btn-outline-secondary">Voir le site <i class="fas fa-external-link-alt ms-1"></i></a>
+    <a href="https://moldio-universe.netlify.app/" target="_blank" class="btn btn-outline-secondary">Voir le site <i class="fas fa-external-link-alt ms-1"></i></a>
 </div>
 
 <!-- Statistiques Clés -->
